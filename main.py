@@ -500,4 +500,4 @@ async def gamerules(ctx):
 
 ###################  rules Commands #####################################
 
-bot.run(Token)
+bot.run(TOKEN)
