@@ -1,0 +1,26 @@
+1. Buy gold(måske) ----
+
+2. guilds ----
+
+3. 1 vs 1 deathroll ----
+--------Vigtig--------
+
+Små ting: 
+Ændre så rollbot skriver hvad spiller og bot ruller
+evt fikse env filer
+
+
+Evt:
+Commands:
+
+Host det?
+
+Admin abuse commands: 
+!buygold - forbind til paypal
+
+Guilds ideer:
+Mulighed for af lave guild
+- Guild leaderboard
+
+
+
