@@ -7,7 +7,7 @@ import datetime
 
 import os
 
-TOKEN="MTEwMjUwODQ0Mzc5NDk0ODIwNg.GdETCf.moH5j0d8vDk45lQ4JkJH9APGNHo5jKvGC2s3ug"
+TOKEN="MTEwMjUwODQ0Mzc5NDk0ODIwNg.Gah6GE.DA9kM_rW3M2gA1fBmfJEXMxSkvi-VN0KYaSbw4"
 CLIENT=1102839933896503325
 
 #### Valg af Prefix ####
