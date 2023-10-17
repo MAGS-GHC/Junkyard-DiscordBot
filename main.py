@@ -1,12 +1,13 @@
+from discord.ext import commands
 import discord
 import random
 import json
 import datetime
 
+
 import os
 
-
-TOKEN="MTEwMjUwODQ0Mzc5NDk0ODIwNg.GdxrAB.TgkNGGqTh4gh4YUEXvhGcSzUYVwj4chHb6xH70"
+TOKEN="MTEwMjUwODQ0Mzc5NDk0ODIwNg.GdETCf.moH5j0d8vDk45lQ4JkJH9APGNHo5jKvGC2s3ug"
 CLIENT=1102839933896503325
 
 #### Valg af Prefix ####
@@ -499,4 +500,4 @@ async def gamerules(ctx):
 
 ###################  rules Commands #####################################
 
-bot.run(os.environ["DISCORD_TOKEN"])
+bot.run(Token)
